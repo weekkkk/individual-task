@@ -1,8 +1,4 @@
-# medications
-
-## Github pages link
-
-<span>**https://andrey779evseev.github.io/vue-tables-app/employees**</span>
+# individual task
 
 ## Project setup
 
@@ -13,7 +9,7 @@ npm install
 ### Compiles and hot-reloads for development
 
 ```
-npm run serve gggggggg
+npm run serve
 ```
 
 ### Compiles and minifies for production
@@ -27,7 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
